@@ -114,7 +114,7 @@ El uso del patrón Repository permite desacoplar la lógica de acceso a datos de
 
 ---
 
-# 🖥 Frontend
+# Frontend
 
 El frontend permite:
 
